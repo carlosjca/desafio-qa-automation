@@ -1,0 +1,9 @@
+resultados/
+output.xml
+log.html
+report.html
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
